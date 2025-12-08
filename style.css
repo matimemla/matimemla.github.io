@@ -6,9 +6,9 @@ body{
     color:cyan;
     background-color:rgb(106, 99, 204);
 }
-div
 
-{
+
+div{
     font-size:large;
     max-width: 800px;
     margin: auto;
@@ -19,5 +19,6 @@ div
         width: 50%;
         height: auto;
 }
+
 
 
