@@ -11,3 +11,9 @@ div
 {
     font-size:large;
 }
+{
+    img {
+        width: 50%;
+        height: auto;
+}
+}
